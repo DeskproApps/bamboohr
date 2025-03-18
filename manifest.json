@@ -1,7 +1,7 @@
 {
   "name": "@deskpro-apps/my-app",
-  "title": "My App",
-  "description": "My Deskpro app",
+  "title": "BambooHR",
+  "description": "",
   "version": "0.0.18",
   "scope": "agent",
   "isSingleInstall": false,

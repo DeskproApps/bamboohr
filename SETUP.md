@@ -1,4 +1,4 @@
-My App Setup Instructions
+BambooHR App Setup Instructions
 ===
 
 TODO: Write setup instructions
